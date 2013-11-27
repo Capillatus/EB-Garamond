@@ -1,3 +1,4 @@
+
 StartChar: uniA742
 Encoding: 42818 42818 2392
 Width: 681
@@ -5,7 +6,20 @@ VWidth: 0
 Flags: HMW
 LayerCount: 3
 Fore
+SplineSet
+433 254 m 5
+ 482 284 l 6
+ 484 285 487 286 489 286 c 4
+ 495 286 500 281 500 266 c 4
+ 500 259 491 251 482 246 c 6
+ 432 216 l 5
+ 342 158 l 5
+ 296 129 l 6
+ 288 125 276 137 276 145 c 4
+ 276 154 284 160 289 163 c 6
+ 342 196 l 5
+ 433 254 l 5
+EndSplineSet
 Refer: 61 75 N 1 0 0 1 0 0 2
-Validated: 1
 Position2: "rtbd subtable" dx=0 dy=0 dh=-34 dv=0
 EndChar

@@ -1,0 +1,38 @@
+
+StartChar: uniA747
+Encoding: 42823 42823 3093
+Width: 340
+VWidth: 0
+Flags: HW
+AnchorPoint: "top_right" 222 660 basechar 0
+AnchorPoint: "top_right1" 212 650 basechar 0
+AnchorPoint: "cedilla" 230 8 basechar 0
+AnchorPoint: "below_accent" 220 -100 basechar 0
+AnchorPoint: "top_accent" 119 790 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+85 300 m 1
+ 85 566 l 2
+ 85 605 72 632 39 639 c 0
+ 34 640 31 646 31 652 c 0
+ 31 658 34 663 38 664 c 0
+ 89 676 122 692 154 704 c 0
+ 155 704 155 705 156 705 c 0
+ 159 705 162 701 162 698 c 0
+ 162 686 155 652 155 562 c 2
+ 155 350 l 1
+ 254 368 l 1
+ 255 62 l 2
+ 255 33 278 30 298 24 c 0
+ 309 20 321 16 321 6 c 0
+ 321 -2 308 -3 301 -3 c 0
+ 262 -3 255 2 220 2 c 0
+ 185 2 178 -3 139 -3 c 0
+ 132 -3 119 -2 119 6 c 0
+ 119 16 131 20 142 24 c 0
+ 162 30 185 35 185 62 c 2
+ 185 320 l 1
+ 85 300 l 1
+EndSplineSet
+EndChar

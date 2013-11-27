@@ -1,9 +1,9 @@
 
-StartChar: uniA743
-Encoding: 42819 42819 2393
+StartChar: uniA745
+Encoding: 42821 42821 3091
 Width: 469
 VWidth: 0
-Flags: HMW
+Flags: HW
 LayerCount: 3
 Fore
 SplineSet
@@ -20,6 +20,5 @@ SplineSet
  242 136 l 5
  313 174 l 5
 EndSplineSet
-Refer: 62 107 N 1 0 0 1 0 0 2
-Position2: "rtbd subtable" dx=0 dy=0 dh=-23 dv=0
+Refer: 3089 42817 N 1 0 0 1 0 0 2
 EndChar

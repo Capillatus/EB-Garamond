@@ -1,0 +1,25 @@
+
+StartChar: uniA750
+Encoding: 42832 42832 3101
+Width: 612
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+180 138 m 5
+ 102 138 l 6
+ 69 138 57 129 43 106 c 4
+ 35 92 32 85 20 85 c 4
+ 11 85 1 125 1 151 c 4
+ 1 166 7 174 30 174 c 6
+ 180 174 l 5
+ 260 174 l 5
+ 477 174 l 6
+ 497 174 506 171 506 162 c 4
+ 506 147 487 138 465 138 c 6
+ 260 138 l 5
+ 180 138 l 5
+EndSplineSet
+Refer: 26 80 N 1 0 0 1 50 0 2
+EndChar
